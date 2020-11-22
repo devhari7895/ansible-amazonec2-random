@@ -1,4 +1,4 @@
---- #Installs and runs a Solr server on Ubuntu (apt required)
+--- #Installs and runs a Solr server on Ubuntu (apt required), dashboard at port :8983 on server
   - hosts: solr
     become: true
 
